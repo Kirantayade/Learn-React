@@ -1,0 +1,30 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "this is my learn react journey",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirantayade/Learn-React.git"
+  },
+  "author": "Kiran Tayade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirantayade/Learn-React/issues"
+  },
+  "homepage": "https://github.com/Kirantayade/Learn-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 chrome version",
+    "last 2 edge version"
+  ]
+    
+}
