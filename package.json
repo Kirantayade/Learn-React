@@ -4,7 +4,7 @@
   "description": "this is my learn react journey",
   "scripts": {
     "start":"parcel index.html",
-    "build": "parcel build inde.html ",
+    "build": "parcel build index.html ",
     "test": "jest"
   },
   "repository": {
